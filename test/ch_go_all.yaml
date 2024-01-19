@@ -92,7 +92,6 @@ proxies:
   - {name: 中转@SSRSUB, server: 91.229.132.214, port: 52210, type: ss, cipher: aes-128-gcm, password: kveALYbe1TZ5GAlAsf3XnjLNxoUmrr3Inbzumbt7BDAp}
   - {name: 腳本@SSRSUB, server: 47.243.103.181, port: 20146, type: ss, cipher: aes-256-gcm, password: N2xdoMzKTr}
   - {name: 🇭🇰 香港@SSRSUB, server: 91.229.132.220, port: 32976, type: ss, cipher: aes-256-gcm, password: f44b6c0f-08d7-4ca6-ad95-4e1e4967874d}
-  - {name: 🇸🇬 新加坡直播@SSRSUB, server: 172.252.59.67, port: 42572, type: ss, cipher: chacha20-poly1305, password: SEZuYXdGWjBDYmxyNFh5THhZNW5JOVpDUkFJQXJIUTZ4R1BnSW04RXdQMklTU3h0alFjMXB1azNpdW1NWXB3Mw==}
   - {name: 🇺🇸 US-hui@SSRSUB, server: 38.54.104.17, port: 18808, type: ss, cipher: aes-256-gcm, password: UEZLKj26tx}
   - {name: 🇺🇸 us-104.184@SSRSUB, server: 38.54.104.184, port: 18808, type: ss, cipher: aes-256-gcm, password: wwq6Xo5gJ8}
   - {name: 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1, server: 64.31.55.5, port: 11223, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
@@ -462,7 +461,6 @@ proxy-groups:
       - 中转@SSRSUB
       - 腳本@SSRSUB
       - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
       - 🇺🇸 US-hui@SSRSUB
       - 🇺🇸 us-104.184@SSRSUB
       - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
@@ -831,7 +829,6 @@ proxy-groups:
       - 中转@SSRSUB
       - 腳本@SSRSUB
       - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
       - 🇺🇸 US-hui@SSRSUB
       - 🇺🇸 us-104.184@SSRSUB
       - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
