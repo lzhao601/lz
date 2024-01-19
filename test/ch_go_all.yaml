@@ -361,7 +361,6 @@ proxies:
   - {name: 🇺🇸 美国直播定制-12.29@SSRSUB, server: 50.118.138.145, port: 36284, type: vmess, uuid: 6630efc4-0da7-4192-b40b-cf7f5beaa417, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 132323, server: muran-kr.qrfly.me, port: 20254, type: vmess, uuid: 007be9ad-8db6-4164-fc49-49989bbcba96, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: muran-kr.qrfly.me}}}
   - {name: 23231233, server: cz1-vmess.sshmax.xyz, port: 2082, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: cz1-vmess.sshmax.xyz, headers: {Host: cz1-vmess.sshmax.xyz}}}
-  - {name: 2321421412, server: 146.190.97.8, port: 20552, type: vmess, uuid: 48cbd108-fd2a-4fb7-b46d-9982b9de9c6e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: m.linkedin.com}}}
   - {name: 23144121, server: c.mac2win.top, port: 8080, type: vmess, uuid: 65ae35d1-01b8-42e4-8373-00d01623c6ed, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: icu.mac2win.top}}}
   - {name: 232244, server: femiafmr.site, port: 443, type: vmess, uuid: 4fa35ea4-668e-4d7b-9bbc-b83681060617, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /kwhmvws, headers: {Host: femiafmr.site}}}
   - {name: 223242, server: moon.chanell.mci.v-x4ssd.space, port: 8080, type: vmess, uuid: 97bba5ca-185c-4e6a-ac64-96e920d4eeda, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: moon.chanell.mci.v-x4ssd.space}}}
@@ -729,7 +728,6 @@ proxy-groups:
       - 🇺🇸 美国直播定制-12.29@SSRSUB
       - 132323
       - 23231233
-      - 2321421412
       - 23144121
       - 232244
       - 223242
@@ -1096,7 +1094,6 @@ proxy-groups:
       - 🇺🇸 美国直播定制-12.29@SSRSUB
       - 132323
       - 23231233
-      - 2321421412
       - 23144121
       - 232244
       - 223242
