@@ -242,26 +242,6 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 台湾省台中市中华电信 1
-      - azhk@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
