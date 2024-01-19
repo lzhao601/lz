@@ -359,13 +359,6 @@ proxies:
   - {name: 🇺🇸 美国专线@SSRSUB, server: 156.251.190.252, port: 20624, type: vmess, uuid: 4323758f-d0fd-466e-f500-0d9515bcd1cb, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB, server: 172.252.56.69, port: 36450, type: vmess, uuid: 2f5144ae-8fb8-43e1-b6f9-52bb36f124ed, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇺🇸 美国直播定制-12.29@SSRSUB, server: 50.118.138.145, port: 36284, type: vmess, uuid: 6630efc4-0da7-4192-b40b-cf7f5beaa417, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 132323, server: muran-kr.qrfly.me, port: 20254, type: vmess, uuid: 007be9ad-8db6-4164-fc49-49989bbcba96, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: muran-kr.qrfly.me}}}
-  - {name: 23231233, server: cz1-vmess.sshmax.xyz, port: 2082, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: cz1-vmess.sshmax.xyz, headers: {Host: cz1-vmess.sshmax.xyz}}}
-  - {name: 23144121, server: c.mac2win.top, port: 8080, type: vmess, uuid: 65ae35d1-01b8-42e4-8373-00d01623c6ed, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: icu.mac2win.top}}}
-  - {name: 232244, server: femiafmr.site, port: 443, type: vmess, uuid: 4fa35ea4-668e-4d7b-9bbc-b83681060617, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /kwhmvws, headers: {Host: femiafmr.site}}}
-  - {name: 223242, server: moon.chanell.mci.v-x4ssd.space, port: 8080, type: vmess, uuid: 97bba5ca-185c-4e6a-ac64-96e920d4eeda, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: moon.chanell.mci.v-x4ssd.space}}}
-  - {name: 232314124, server: 89.36.162.35, port: 47333, type: vmess, uuid: 7e3e6c91-90fa-4321-ad74-db00f2442134, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 23123243244, server: hytron.io, port: 8080, type: vmess, uuid: 010c265f-5455-4141-ca23-4d69357ded0d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: aktw.daozhang.love}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -726,13 +719,6 @@ proxy-groups:
       - 🇺🇸 美国专线@SSRSUB
       - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
       - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1092,13 +1078,6 @@ proxy-groups:
       - 🇺🇸 美国专线@SSRSUB
       - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
       - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
   - name: 🌍 国外媒体
     type: select
     proxies:
