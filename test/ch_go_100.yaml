@@ -7,7 +7,6 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: 104.234.202.187@SSRSUB, server: 104.234.202.187, port: 24422, type: ss, cipher: aes-256-gcm, password: qw7lnQ2zj3}
   - {name: 163.197.212.241@SSRSUB, server: 163.197.212.241, port: 5555, type: ss, cipher: aes-256-gcm, password: 2006825xcj}
-  - {name: 175.178.55.243@SSRSUB, server: 175.178.55.243, port: 33963, type: ss, cipher: chacha20-poly1305, password: MxZuOpppbY}
   - {name: 183.110.194.4|频道, server: 183.110.194.4, port: 9988, type: ss, cipher: aes-256-gcm, password: !<str> 12345678}
   - {name: 185.151.146.169@SSRSUB, server: 185.151.146.169, port: 38935, type: ss, cipher: aes-256-gcm, password: chG0C20Pab}
   - {name: 1|频道, server: 157.230.241.216, port: 21956, type: ss, cipher: aes-256-gcm, password: xlhhDKCQHd}
@@ -66,7 +65,6 @@ proxy-groups:
       - 🎯 全球直连
       - 104.234.202.187@SSRSUB
       - 163.197.212.241@SSRSUB
-      - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
       - 185.151.146.169@SSRSUB
       - 1|频道
@@ -124,7 +122,6 @@ proxy-groups:
     proxies:
       - 104.234.202.187@SSRSUB
       - 163.197.212.241@SSRSUB
-      - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
       - 185.151.146.169@SSRSUB
       - 1|频道
