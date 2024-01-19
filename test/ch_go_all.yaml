@@ -91,7 +91,6 @@ proxies:
   - {name: vip@SSRSUB 2, server: 5.75.192.234, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: tEiBYlWvH47dGQeCFX4B+DnXNym+iTeySptn/2W3jNw=}
   - {name: 中转@SSRSUB, server: 91.229.132.214, port: 52210, type: ss, cipher: aes-128-gcm, password: kveALYbe1TZ5GAlAsf3XnjLNxoUmrr3Inbzumbt7BDAp}
   - {name: 腳本@SSRSUB, server: 47.243.103.181, port: 20146, type: ss, cipher: aes-256-gcm, password: N2xdoMzKTr}
-  - {name: 🇨🇳 台湾@SSRSUB, server: 37.128.253.52, port: 51282, type: ss, cipher: chacha20-poly1305, password: aTlCeFYzS3JSMGZlMmN3aEF1VVZKWFY5Tm53VzQxUHdHSVo3SDdhT3BRVHMxcmRHZnJXWU5BZkhJcmJKYTd5RQ==}
   - {name: 🇭🇰 香港@SSRSUB, server: 91.229.132.220, port: 32976, type: ss, cipher: aes-256-gcm, password: f44b6c0f-08d7-4ca6-ad95-4e1e4967874d}
   - {name: 🇸🇬 新加坡直播@SSRSUB, server: 172.252.59.67, port: 42572, type: ss, cipher: chacha20-poly1305, password: SEZuYXdGWjBDYmxyNFh5THhZNW5JOVpDUkFJQXJIUTZ4R1BnSW04RXdQMklTU3h0alFjMXB1azNpdW1NWXB3Mw==}
   - {name: 🇺🇸 US-hui@SSRSUB, server: 38.54.104.17, port: 18808, type: ss, cipher: aes-256-gcm, password: UEZLKj26tx}
@@ -462,7 +461,6 @@ proxy-groups:
       - vip@SSRSUB 2
       - 中转@SSRSUB
       - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
       - 🇭🇰 香港@SSRSUB
       - 🇸🇬 新加坡直播@SSRSUB
       - 🇺🇸 US-hui@SSRSUB
@@ -832,7 +830,6 @@ proxy-groups:
       - vip@SSRSUB 2
       - 中转@SSRSUB
       - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
       - 🇭🇰 香港@SSRSUB
       - 🇸🇬 新加坡直播@SSRSUB
       - 🇺🇸 US-hui@SSRSUB
