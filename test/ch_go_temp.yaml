@@ -65,2460 +65,362 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 台湾省台中市 中华电信
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - azhk@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2534,405 +436,60 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇮🇳 印度 V2CROSS.COM
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 巴勒斯坦 V2CROSS.COM
-      - 🇺🇸 北美地区 V2CROSS.COM
-      - 🇻🇳 越南 V2CROSS.COM
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇨🇳 广东省 移动
+      - 🇨🇳 广东省广州市 移动
+      - 🇨🇳 广东省广州市 移动 2
+      - 🇨🇳 广东省广州市 移动 3
       - 亚太地区 V2CROSS.COM
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 台湾省台中市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 V2CROSS.COM
       - 🇺🇸 美国 Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 4
+      - 🇨🇳 广东省 移动 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 United States 01 @nodpai
       - 🇬🇧 United Kingdom 01 @nodpai
       - 高性价比机场:https://kcloud.xyz/
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市 移动
-      - 🇨🇳 台湾省台北市 中华电信
-      - 🇨🇳 广东省广州市 移动 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇨🇳 广东省广州市 移动 3
-      - 🇨🇳 广东省广州市 移动 4
-      - 🇨🇳 广东省广州市 移动 5
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇨🇳 台湾省新竹市 中华电信
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 台湾省新北市 中华电信
       - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇬🇧 英国伦敦+Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国+Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 Amazon EC2服务器
-      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇨🇳 安徽省 移动数据上网公共出口
-      - 🇰🇷 韩国 BGP.NET数据中心
-      - 🇺🇸 美国  1
-      - 🇺🇸 美国Microsoft数据中心 3
-      - 🇨🇳 广东省移动 4
-      - 🇺🇸 美国亚特兰大 5
-      - 🇨🇳 台湾省新竹市中华电信 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
-      - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇨🇳 广东省移动 11
-      - 🇺🇸 美国CloudFlare节点 12
-      - 🇸🇬 新加坡Amazon数据中心 13
-      - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇫🇷 法国OVH 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇦 乌克兰  19
-      - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇨🇳 github.com/freefq - 台湾省台中市中华电信 1
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇺🇸 北美地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国+俄亥俄州都柏林Amazon数据中心
+      - 🇨🇳 广东省广州市 移动 5
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 台湾省台中市中华电信 1
+      - 🇺🇸 北美地区  2
+      - 🇺🇸 美国  3
+      - 🇺🇸 美国CloudFlare节点 4
+      - 🇺🇸 美国CloudFlare公司CDN节点 5
+      - 🇨🇳 广东省移动 6
+      - 巴勒斯坦  7
+      - 🇺🇸 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国俄亥俄州都柏林Amazon数据中心 1
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
-      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 3
-      - 🇺🇸 github.com/freefq - 北美地区  4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 github.com/freefq - 广东省移动 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇵🇦 _PA_巴拿马
-      - 🇫🇷 _FR_法国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国
-      - 🇺🇸 _AU_澳大利亚->🇺🇸_US_美国 2
-      - 🇺🇸 _US_美国->🇷🇺_RU_俄罗斯联邦
-      - _BA_波黑
-      - 🇺🇸 _US_美国
-      - 🇫🇷 _FR_法国 2
-      - 🇺🇸 _US_美国 2
-      - 🇹🇷 _PS_巴勒斯坦->🇹🇷_TR_土耳其
-      - 🇭🇰 _SC_塞舌尔->🇭🇰_HK_香港
-      - 🇭🇰 _HK_香港
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国 3
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰
-      - 🇳🇱 _NL_荷兰
-      - 🇺🇸 _US_美国 4
-      - 🇺🇸 _US_美国 5
-      - 🇺🇸 _US_美国->🇺🇦_UA_乌克兰 2
-      - 🇺🇸 _US_美国 6
-      - 🇱🇺 _LU_卢森堡
-      - 🇺🇸 _US_美国 7
-      - 104.234.202.187@SSRSUB
-      - 163.197.212.241@SSRSUB
-      - 183.110.194.4|频道
-      - 185.151.146.169@SSRSUB
-      - 1|频道
-      - 1|频道 2
-      - 23.94.76.55@SSRSUB
-      - 37.32.11.234|频道
-      - 43.156.237.238@SSRSUB
-      - 43.156.241.221|频道
-      - 45.56.72.68@SSRSUB
-      - 45.58.39.13@SSRSUB
-      - 45.82.167.133@SSRSUB
-      - 47.242.177.168|频道
-      - 47.243.108.41|频道
-      - 47.57.232.119|频道
-      - 4@SSRSUB
-      - 50.114.159.250|频道
-      - 66.103.199.2@SSRSUB
-      - 8.210.231.146|频道
-      - 89.185.30.233|频道
-      - 89.185.31.107@SSRSUB
-      - Ali_SS|频道
-      - ZZSSHK@SSRSUB
-      - azhk@SSRSUB
-      - qq|频道|t.me/SSRSUB
-      - test|频道
-      - vip@SSRSUB
-      - vip@SSRSUB 2
-      - 中转@SSRSUB
-      - 腳本@SSRSUB
-      - 🇨🇳 台湾@SSRSUB
-      - 🇭🇰 香港@SSRSUB
-      - 🇸🇬 新加坡直播@SSRSUB
-      - 🇺🇸 US-hui@SSRSUB
-      - 🇺🇸 us-104.184@SSRSUB
-      - 🇺🇸 github.com/freefq - 美国得克萨斯州达拉斯Limestone网络公司 1
-      - 🇺🇸 V001--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V002--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V003--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V004--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V005--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V006--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V007--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V008--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V009--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V010--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V011--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V012--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V013--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V014--US-付费推荐:dlj.tf/ssrsub
-      - 🇺🇸 V015--US-付费推荐:dlj.tf/ssrsub
-      - 0106GT-LOS-JH02@SSRSUB
-      - 102@SSRSUB
-      - 103.103.245.203@SSRSUB
-      - 103.180.161.47|频道 t.me/SSRSUB
-      - 104.253.68.4@SSRSUB
-      - 107.172.157.103@SSRSUB
-      - 1111@SSRSUB 2
-      - 1111@SSRSUB 3
-      - 1111@SSRSUB 4
-      - 1111@SSRSUB 5
-      - 111@SSRSUB
-      - 111@SSRSUB 2
-      - 111@SSRSUB 3
-      - 113.20.28.102|频道 t.me/SSRSUB
-      - 129.146.86.85@SSRSUB
-      - 154.9.230.60|频道 t.me/SSRSUB
-      - 157.254.231.45|频道 t.me/SSRSUB
-      - 165.154.161.120|频道 t.me/SSRSUB
-      - 183.181.36.194|频道 t.me/SSRSUB
-      - 1@SSRSUB
-      - 1|频道 t.me/SSRSUB
-      - 1|频道 t.me/SSRSUB 2
-      - 1|频道 t.me/SSRSUB 3
-      - 2112|频道 t.me/SSRSUB
-      - 23.105.194.192@SSRSUB
-      - 2@SSRSUB
-      - 38.54.108.202@SSRSUB
-      - 38.54.14.118@SSRSUB
-      - 38.54.82.54@SSRSUB
-      - 38.54.86.217@SSRSUB
-      - 38.6.224.204@SSRSUB
-      - 3|频道 t.me/SSRSUB
-      - 47.236.111.83@SSRSUB
-      - 47.236.123.100@SSRSUB
-      - 4@SSRSUB 2
-      - 5@SSRSUB
-      - 60.246.226.3@SSRSUB
-      - 61.111.251.85@SSRSUB
-      - 6@SSRSUB
-      - 74.48.130.248|频道 t.me/SSRSUB
-      - 8.222.239.7|频道 t.me/SSRSUB
-      - 82.115.25.173@SSRSUB
-      - 89.36.162.35|频道 t.me/SSRSUB
-      - 999
-      - ASH ARM|频道 t.me/SSRSUB
-      - AU1@SSRSUB
-      - AliOn@SSRSUB
-      - Amir@SSRSUB
-      - Amir@SSRSUB 2
-      - EV1230-IPLC-jh01@SSRSUB
-      - FTP-VPN@SSRSUB
-      - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
-      - MeraatNE|频道 t.me/SSRSUB
-      - Oracle-kr2@SSRSUB
-      - QE@SSRSUB
-      - RN -2@SSRSUB
-      - Tang@SSRSUB
-      - V1@SSRSUB
-      - V2@SSRSUB
-      - VMESS+WS|频道 t.me/SSRSUB
-      - VPN@SSRSUB
-      - Voltage@SSRSUB
-      - Zx@SSRSUB
-      - aa01@SSRSUB
-      - aa04@SSRSUB
-      - aaa|频道 t.me/SSRSUB
-      - acloveyou@SSRSUB
-      - akk-fj-01@SSRSUB
-      - azhk|频道 t.me/SSRSUB
-      - bao6@SSRSUB
-      - bergwerwq@SSRSUB
-      - bx@SSRSUB
-      - cc@SSRSUB
-      - els|频道 t.me/SSRSUB
-      - gb62test@SSRSUB
-      - live-uucrystal@SSRSUB
-      - m-01@SSRSUB
-      - mahdi@SSRSUB
-      - meiguo01@SSRSUB
-      - mq29@SSRSUB
-      - name|频道 t.me/SSRSUB
-      - network|频道 t.me/SSRSUB
-      - pp-vpn@SSRSUB
-      - sam|频道 t.me/SSRSUB
-      - sg2|频道 t.me/SSRSUB
-      - ssk-ali@SSRSUB
-      - test1|频道 t.me/SSRSUB
-      - test|频道 t.me/SSRSUB
-      - tiktokde@SSRSUB
-      - tk2@SSRSUB
-      - tt@SSRSUB
-      - twg4|频道 t.me/SSRSUB
-      - u5@SSRSUB
-      - us001|频道 t.me/SSRSUB
-      - usa08@SSRSUB
-      - usa09@SSRSUB
-      - usa10@SSRSUB
-      - usa12@SSRSUB
-      - usa17@SSRSUB
-      - usa18@SSRSUB
-      - usa1@SSRSUB
-      - usa20@SSRSUB
-      - usa22@SSRSUB
-      - usa23@SSRSUB
-      - usa27@SSRSUB
-      - usa28@SSRSUB
-      - usa29@SSRSUB
-      - usa30@SSRSUB
-      - usa32@SSRSUB
-      - usa33@SSRSUB
-      - vm+ws/xzx@SSRSUB
-      - vmess+ws@SSRSUB
-      - vmess-15b68624-6aad-445f-8077-b3be28145797@SSRSUB
-      - vmess@SSRSUB
-      - vmess@SSRSUB 2
-      - vv|频道 t.me/SSRSUB
-      - xian02@SSRSUB
-      - xu@SSRSUB
-      - yq01@SSRSUB
-      - yr|频道 t.me/SSRSUB
-      - zx@SSRSUB
-      - 三十八@SSRSUB
-      - 专线v3@SSRSUB
-      - 中9@SSRSUB
-      - 冰消1-日@SSRSUB
-      - 冰消2-日@SSRSUB
-      - 冲亚1-日@SSRSUB
-      - 冲亚2-日@SSRSUB
-      - 刘敏1-日@SSRSUB
-      - 刘敏2-日@SSRSUB
-      - 叶莎1-日@SSRSUB
-      - 夏夏2-日@SSRSUB
-      - 大6@SSRSUB
-      - 小11|频道 t.me/SSRSUB
-      - 小12@SSRSUB
-      - 小4@SSRSUB
-      - 小马哥3-日区@SSRSUB
-      - 小马哥4-日区@SSRSUB
-      - 手机01@SSRSUB
-      - 拉克纳德@SSRSUB
-      - 文文1-日@SSRSUB
-      - 文文2-日@SSRSUB
-      - 文文2-私@SSRSUB
-      - 晨阳2-日@SSRSUB
-      - 晨阳3-美|频道 t.me/SSRSUB
-      - 极速@SSRSUB
-      - 测试节点@SSRSUB
-      - 海风独享|频道 t.me/SSRSUB
-      - 猪12-私@SSRSUB
-      - 猪13-私@SSRSUB
-      - 琯琦1-日@SSRSUB
-      - 琯琦2-日@SSRSUB
-      - 程111@SSRSUB
-      - 美西4@SSRSUB
-      - 胖子10|频道 t.me/SSRSUB
-      - 胖子2|频道 t.me/SSRSUB
-      - 胖子3|频道 t.me/SSRSUB
-      - 胖子5|频道 t.me/SSRSUB
-      - 胖子7|频道 t.me/SSRSUB
-      - 范江林2-日@SSRSUB
-      - 莹莹1-日@SSRSUB
-      - 落地机@SSRSUB
-      - 迪2-日@SSRSUB
-      - 郭晓雪13-私@SSRSUB
-      - 郭晓雪16-私@SSRSUB
-      - 郭晓雪17-私@SSRSUB
-      - 郭晓雪18-私@SSRSUB
-      - 🇨🇳 LB台湾高雄11|直连|vmess@SSRSUB
-      - 🇨🇳 LB台湾高雄12|直连|vmess|频道 t.me/SSRSUB
-      - 🇨🇳 LB台湾高雄9@SSRSUB
-      - 🇨🇳 台湾11.10|频道 t.me/SSRSUB
-      - 🇨🇳 台湾13@SSRSUB
-      - 🇨🇳 台湾14@SSRSUB
-      - 🇨🇳 台湾4@SSRSUB
-      - 🇨🇳 台湾8@SSRSUB
-      - 🇨🇳 台湾9@SSRSUB
-      - 🇨🇳 台湾|频道 t.me/SSRSUB
-      - 🇨🇳 台湾直播定制-12.18|频道 t.me/SSRSUB
-      - 🇨🇳 广州@SSRSUB
-      - 🇩🇪 FB-1129-DE@SSRSUB
-      - 🇪🇸 西班牙-01|频道 t.me/SSRSUB
-      - 🇫🇷 法国@SSRSUB
-      - 🇬🇧 英国短视频1-12.21@SSRSUB
-      - 🇬🇧 英国短视频定制1-12.25@SSRSUB
-      - 🇬🇧 英国短视频定制10-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制2-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.21|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制3-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.17|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制4-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制6-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制7-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制8-12.25|频道 t.me/SSRSUB
-      - 🇬🇧 英国短视频定制9-12.25|频道 t.me/SSRSUB
-      - 🇭🇰 hk@SSRSUB
-      - 🇭🇰 香港ARM|频道 t.me/SSRSUB
-      - 🇮🇩 印尼|频道 t.me/SSRSUB
-      - 🇯🇵 日本东京-IIJ 2|频道 t.me/SSRSUB
-      - 🇰🇷 韩国家庭37@SSRSUB
-      - 🇰🇷 韩国直播定制-11.23@SSRSUB
-      - 🇱🇺 卢森堡@SSRSUB
-      - 🇲🇾 Evoxt马来02@SSRSUB
-      - 🇲🇾 MY|频道 t.me/SSRSUB
-      - 🇲🇾 马来65|频道 t.me/SSRSUB
-      - 🇲🇾 马来|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制-10.9|频道 t.me/SSRSUB
-      - 🇲🇾 马来短视频定制2-12.4|频道 t.me/SSRSUB
-      - 🇲🇾 马来西亚1@SSRSUB
-      - 🇲🇾 马来西亚【原生ip】- jwx200-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾定制-12.29@SSRSUB
-      - 🇵🇭 菲律宾短视频12-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制1-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制14-12.22|频道 t.me/SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制2-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制3-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制4-12.30@SSRSUB
-      - 🇵🇭 菲律宾短视频定制7-1.6@SSRSUB
-      - 🇵🇭 菲律宾短视频定制8-12.22|频道 t.me/SSRSUB
-      - 🇸🇬 LB日本东京新线路@SSRSUB
-      - 🇸🇬 Malaysia新1@SSRSUB
-      - 🇸🇬 SGP|频道 t.me/SSRSUB
-      - 🇸🇬 微软新加坡@SSRSUB
-      - 🇸🇬 新加坡|频道 t.me/SSRSUB
-      - 🇸🇬 新加坡直播定制-1.6@SSRSUB
-      - 🇸🇬 阿里云新加坡|频道 t.me/SSRSUB
-      - 🇹🇭 泰国定制1-1.1@SSRSUB
-      - 🇹🇭 泰国定制2-1.1@SSRSUB
-      - 🇹🇭 泰国短视频定制-12.27@SSRSUB
-      - 🇹🇭 泰国短视频定制4-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 泰国短视频定制5-12.11|频道 t.me/SSRSUB
-      - 🇹🇭 甜爆-泰国-3号@SSRSUB
-      - 🇹🇭 甜爆-泰国-4号@SSRSUB
-      - 🇺🇸 US 鱼4@SSRSUB
-      - 🇺🇸 US 鱼5@SSRSUB
-      - 🇺🇸 US-MC|频道 t.me/SSRSUB
-      - 🇺🇸 USA|频道 t.me/SSRSUB
-      - 🇺🇸 us@SSRSUB
-      - 🇺🇸 柚子美国4@SSRSUB
-      - 🇺🇸 美国-xu12.26@SSRSUB
-      - 🇺🇸 美国006洛杉矶@SSRSUB
-      - 🇺🇸 美国1@SSRSUB
-      - 🇺🇸 美国3@SSRSUB
-      - 🇺🇸 美国4@SSRSUB
-      - 🇺🇸 美国@SSRSUB
-      - 🇺🇸 美国专线@SSRSUB
-      - 🇺🇸 美国直播定制-12.22|频道 t.me/SSRSUB
-      - 🇺🇸 美国直播定制-12.29@SSRSUB
-      - 132323
-      - 23231233
-      - 2321421412
-      - 23144121
-      - 232244
-      - 223242
-      - 232314124
-      - 23123243244
+      - 🇺🇸 github.com/freefq - 美国Amazon数据中心 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇮🇳 github.com/freefq - 印度  6
+      - 🇺🇸 github.com/freefq - 美国  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇨🇳 github.com/freefq - 广东省移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇸🇬 github.com/freefq - 新加坡亚马逊(Amazon)公司数据中心 13
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
