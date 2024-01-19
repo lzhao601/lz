@@ -61,7 +61,6 @@ proxies:
   - {name: 🇺🇸 _US_美国, server: cold-dawn-9246.fly.dev, port: 443, type: vmess, uuid: ea4909ef-7ca6-4b46-bf2e-6c07896ef338, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm, headers: {Host: cold-dawn-9246.fly.dev}}}
   - {name: 🇰🇷 _KR_韩国, server: 103.214.68.57, port: 10003, type: trojan, password: 6x8HcghsjS, sni: yes998.chickenkiller.com, skip-cert-verify: true}
   - {name: 104.234.202.187@SSRSUB, server: 104.234.202.187, port: 24422, type: ss, cipher: aes-256-gcm, password: qw7lnQ2zj3}
-  - {name: 1111@SSRSUB, server: 176.119.203.233, port: 1111, type: ss, cipher: chacha20-poly1305, password: !<str> 123456789}
   - {name: 163.197.212.241@SSRSUB, server: 163.197.212.241, port: 5555, type: ss, cipher: aes-256-gcm, password: 2006825xcj}
   - {name: 175.178.55.243@SSRSUB, server: 175.178.55.243, port: 33963, type: ss, cipher: chacha20-poly1305, password: MxZuOpppbY}
   - {name: 183.110.194.4|频道, server: 183.110.194.4, port: 9988, type: ss, cipher: aes-256-gcm, password: !<str> 12345678}
@@ -434,7 +433,6 @@ proxy-groups:
       - 🇺🇸 _US_美国
       - 🇰🇷 _KR_韩国
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -806,7 +804,6 @@ proxy-groups:
       - 🇺🇸 _US_美国
       - 🇰🇷 _KR_韩国
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
