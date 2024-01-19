@@ -162,7 +162,6 @@ proxies:
   - {name: EV1230-IPLC-jh01@SSRSUB, server: 205.164.28.124, port: 58782, type: vmess, uuid: 51dd3de7-102e-49ba-98eb-0514d39e25ce, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: FTP-VPN@SSRSUB, server: 43.132.164.99, port: 8002, type: vmess, uuid: 75ed6c0d-cd32-4b10-f71f-cd0b9c6efa3f, alterId: 0, cipher: auto, tls: false}
   - {name: ForDIY-Studio@SSRSUB, server: 38.54.95.63, port: 56456, type: vmess, uuid: bf888ed9-5110-4a54-f5d4-133c6e725e15, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: Mehdi@SSRSUB, server: 5.75.205.222, port: 443, type: vmess, uuid: 62dbeb4b-78f8-4403-eb13-62d978078966, alterId: 0, cipher: auto, tls: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
   - {name: MeraatNE|频道 t.me/SSRSUB, server: 38.180.98.215, port: 8080, type: vmess, uuid: 773ac60d-36d7-45b5-c99e-a0e3903e2e3a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: Oracle-kr2@SSRSUB, server: 146.56.43.133, port: 80, type: vmess, uuid: 0a1721d3-73fd-4b4e-e1ee-dcc22d174b16, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: QE@SSRSUB, server: 104.238.160.78, port: 443, type: vmess, uuid: ce90c941-26f8-4483-decb-abbe17b041d6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -531,7 +530,6 @@ proxy-groups:
       - EV1230-IPLC-jh01@SSRSUB
       - FTP-VPN@SSRSUB
       - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
       - MeraatNE|频道 t.me/SSRSUB
       - Oracle-kr2@SSRSUB
       - QE@SSRSUB
@@ -899,7 +897,6 @@ proxy-groups:
       - EV1230-IPLC-jh01@SSRSUB
       - FTP-VPN@SSRSUB
       - ForDIY-Studio@SSRSUB
-      - Mehdi@SSRSUB
       - MeraatNE|频道 t.me/SSRSUB
       - Oracle-kr2@SSRSUB
       - QE@SSRSUB
