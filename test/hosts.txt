@@ -1,1 +1,3 @@
-13.224.163.120 api.themoviedb.org
+13.224.161.117 api.themoviedb.org
+54.192.22.81 api.tmdb.org
+
